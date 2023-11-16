@@ -2,7 +2,7 @@
 
 the only reason that this is public is because i'm lazy lol
 
-this is also technically partally used for FPSandbox Legacy Edition
+this is also technically partally used for sandboxLabs
 
 migrating to unity cloud content delivery soon:tm:
 
